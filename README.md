@@ -1,1 +1,1 @@
-# Cultured-chronicals
+Console-Based Movie Theater Management System, developed in Java using basic Object-Oriented Programming (OOP) principles, allows users to book tickets and view their reservations through a user-friendly command-line interface.
