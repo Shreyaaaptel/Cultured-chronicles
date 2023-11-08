@@ -1,1 +1,1 @@
-Console-Based Movie Theater Management System, developed in Java using basic Object-Oriented Programming (OOP) principles, allows users to book tickets and view their reservations through a user-friendly command-line interface.
+Multipage website named "CulturedChronicles" that showcases the rich cultural tapestry of India in Food, Folks and Fabric. Leveraged technologies such as HTML, CSS, and JavaScript to create an engaging platform.
