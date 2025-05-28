@@ -1,1 +1,1 @@
-Single-page website named "CulturedChronicles" that showcases the rich cultural tapestry of India in Food, Folks and Fabric. Leveraged technologies such as HTML, CSS, and JavaScript to create an engaging platform.
+Multi-page website named "CulturedChronicles" that showcases the rich cultural tapestry of India in Food, Folks and Fabric. Leveraged technologies such as HTML, CSS, and JavaScript to create an engaging platform.
